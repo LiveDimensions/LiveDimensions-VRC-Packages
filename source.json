@@ -1,28 +1,21 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"LiveDimensions VRChat Packages",
+    "id":"com.livedimensions.vpm-listing",
+    "url":"https://livedimensions.github.io/LiveDimensions-VRC-Packages/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"livedimensions@gmail.com",
+        "name":"LiveDimensions",
+        "url":"https://github.com/LiveDimensions"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Prefabs and editor tools for VRChat world creators",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/LiveDimensions/LiveDimensions-VRC-Packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "LiveDimensions/VRRefAssist"
     ],
     "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
     ]
 }
